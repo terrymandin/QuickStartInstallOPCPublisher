@@ -1,5 +1,5 @@
-# Install OPCPublisher
-This documentation will show the steps to insall the OPC Publisher in a Linux environment
+# Quick Start Install OPCPublisher
+This is a quick start to install the Azure OPCPublisher module.  For detailed instructions see: 
 
 ## Prerequisites
 
@@ -9,5 +9,4 @@ This documentation will show the steps to insall the OPC Publisher in a Linux en
 
 ### IoT Hub installation
 
-1. Go to your IoT Hub in the Azure portal.
-2. Click on 
+[Microsoft OPC Publisher - Standalone Mode](https://azure.github.io/Industrial-IoT/modules/publisher.html)
